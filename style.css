@@ -1,0 +1,147 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background: black;
+    color: white;
+}
+
+#head{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+#recc{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+#watch-again{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+#your-favorites{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+#gool{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+#similar{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+#popular{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+#last{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+#head a{
+    color: white;
+}
+
+#head ul li a{
+    color: white;
+}
+
+#head nav{
+    margin-left: -9em;
+    margin-right: -10em;
+    margin-top: -1em;
+    margin-bottom: -1em;
+}
+
+#head-bg{
+    background-image: url(/img/Hero\ background.png);
+    z-index: -10;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#carouselExampleControls{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+.d-block{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#butt{
+    width: 1050px;
+    margin: 1em auto;
+}
+
+#butt button{
+    flex-wrap: wrap;
+    width: 12.23em;
+    height: 4.5em;
+}
+
+.section-title{
+    margin-bottom: 1.5em;
+}
+
+#recc div{
+    background: none;
+}
+
+#watch-again div{
+    background: none;
+}
+
+div h4{
+    font-size: 1em;
+}
+
+div h5{
+    font-size: 1em;
+}
+
+div p{
+    color: gray;
+    font-size: 0.85em;
+}
+
+div strong{
+    color: #2ABDBB;
+}
+
+.banner{
+    margin-top: 3em;
+}
+
+#your-favorites div{
+    background: none;
+}
+
+#gool div{
+    background: none;
+}
+
+#popular div{
+    background: none;
+}
+
+#last div{
+    background: none;
+}
+
+#similar div{
+    background: none;
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+}
